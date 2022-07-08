@@ -1,0 +1,9 @@
+﻿  FileManager.cpp
+  Generator.cpp
+C:\Users\Callum\Documents\advancedprogramming\advancedprogramming\Project1\Generator.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Callum\Documents\advancedprogramming\advancedprogramming\Project1\Generator.cpp(109,22): warning C4018: '<': signed/unsigned mismatch
+  Menu.cpp
+C:\Users\Callum\Documents\advancedprogramming\advancedprogramming\Project1\Menu.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LINK : C:\Users\Callum\Documents\advancedprogramming\advancedprogramming\Project1\Debug\Project1.exe not found or not built by the last incremental link; performing full link
+  Project1.vcxproj -> C:\Users\Callum\Documents\advancedprogramming\advancedprogramming\Project1\Debug\Project1.exe
